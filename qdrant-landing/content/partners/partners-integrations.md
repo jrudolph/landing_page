@@ -1,5 +1,9 @@
 ---
-title: Qdrant integrates with all leading LLM providers and frameworks
+title: Embeddings Integrations
+description: Qdrant’s integrations allow you to bring state-of-the-art AI and machine learning capabilities, and to enrich data analysis and search precision.
+link:
+  url: /
+  text: See All Embeddings
 integrations:
 - id: 0
   icon:
@@ -37,18 +41,6 @@ integrations:
     alt: AWS logo
   title: AWS Bedrock
   description: AWS Bedrock supports multiple embedding model providers.
-- id: 6
-  icon:
-    src: /img/integrations/integration-lang-chain.svg
-    alt: LangChain logo
-  title: LangChain
-  description: Langchain comes with the Qdrant integration by default.
-- id: 7
-  icon:
-    src: /img/integrations/integration-llama-index.svg
-    alt: LlamaIndex logo
-  title: LlamaIndex
-  description: Acts as an interface between your external data and LLM
 sitemapExclude: true
 ---
 
